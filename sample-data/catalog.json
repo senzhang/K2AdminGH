@@ -1,0 +1,101 @@
+[
+  {
+    "label": "catalog_0",
+    "value": "F04E930D-5EF2-49A5-9B2C-DADDA7A06059",
+    "children": []
+  },
+  {
+    "label": "catalog_1",
+    "value": "BCAE4F87-9DEE-4469-9415-C2FCF23F0CE7",
+    "children": [
+      {
+        "label": "catalog_1_01",
+        "value": "56B8A314-95F4-46E3-8D37-24C0AD7B8813",
+        "children": []
+      },
+      {
+        "label": "catalog_1_02",
+        "value": "54FEC88C-851B-4CA3-B244-EC1A4772478F",
+        "children": []
+      },
+      {
+        "label": "catalog_1_03",
+        "value": "F56897FA-0898-4A56-8BFA-51B87B12D725",
+        "children": []
+      }
+    ]
+  },
+  {
+    "label": "catalog_2",
+    "value": "95A66C98-8ED8-46AC-933D-B63C705338A9",
+    "children": [
+      {
+        "label": "catalog_2_01",
+        "value": "5915439A-E048-4BC2-965A-92366809729A",
+        "children": []
+      },
+      {
+        "label": "catalog_2_02",
+        "value": "017A8F61-5685-4926-B04C-AD18600C5BF3",
+        "children": []
+      },
+      {
+        "label": "catalog_2_03",
+        "value": "DC5EA450-3EAB-4333-BD90-5A24A0F9F66C",
+        "children": []
+      }
+    ]
+  },
+  {
+    "label": "catalog_3",
+    "value": "39B0A873-B143-42CC-874B-530E5D19358A",
+    "children": [
+      {
+        "label": "catalog_3_01",
+        "value": "76D5D0C0-C800-4233-BED8-D1E722C9FC88",
+        "children": []
+      },
+      {
+        "label": "catalog_3_02",
+        "value": "4E269BAE-2221-404B-A4A5-C26CFE279E9C",
+        "children": []
+      },
+      {
+        "label": "catalog_3_03",
+        "value": "4E269BAE-2221-404B-A4A5-C26CFE279E9C",
+        "children": []
+      }
+    ]
+  },
+  {
+    "label": "catalog_4",
+    "value": "AB7BC59B-7511-4160-95ED-390AD225051D",
+    "children": [
+      {
+        "label": "catalog_4_01",
+        "value": "D1D3FAD5-2CB6-4BD9-903D-4635EB6BF02A",
+        "children": []
+      },
+      {
+        "label": "catalog_4_02",
+        "value": "7CAACF3E-C00B-479B-8817-FA4AC695357D",
+        "children": []
+      },
+      {
+        "label": "catalog_4_03",
+        "value": "951D926C-4507-46F8-975F-C17B7539794F",
+        "children": []
+      },
+      {
+        "label": "catalog_4_04",
+        "value": "4139452A-2435-4190-9B86-0B7C2BE0190D",
+        "children": []
+      },
+      {
+        "label": "catalog_4_05",
+        "value": "3F11DEDF-57AF-4348-BB3A-EBCCB9C37555",
+        "children": []
+      }
+    ]
+  }
+]
